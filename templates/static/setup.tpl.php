@@ -1,0 +1,1 @@
+<div>Here are the proposed identifiers for the new application stub. The fields can be changed if you wish.</div>

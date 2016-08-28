@@ -1,0 +1,13 @@
+<?php
+
+namespace App;
+
+use Base\Controller as BaseController;
+
+class LastHocus extends BaseController {
+    protected function actionIndex() {
+
+    }
+}
+
+?>
